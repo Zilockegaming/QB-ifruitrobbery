@@ -2,17 +2,17 @@
 iFruit Robbery For QB-Core
 
 # Dependincy
- ["qb-core"] (https://github.com/qbcore-framework/qb-core)
+ [qb-core](https://github.com/qbcore-framework/qb-core)
 
- ["qb-smallrecources"] (https://github.com/qbcore-framework/qb-smallresources)
+ [qb-smallrecources](https://github.com/qbcore-framework/qb-smallresources)
 
- ["Progressbar"] (https://github.com/qbcore-framework/progressbar)
+ [Progressbar](https://github.com/qbcore-framework/progressbar)
 
- ["qb-Inventory"] (https://github.com/qbcore-framework/qb-inventory)
+ [qb-Inventory](https://github.com/qbcore-framework/qb-inventory)
 
- ["ps-dispatch"] (https://github.com/Project-Sloth/ps-dispatch)
+ [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch)
 
- ["mamorygame"] (https://github.com/pushkart2/memorygame)
+ [mamorygame](https://github.com/pushkart2/memorygame)
 
 # License
 
@@ -31,4 +31,3 @@ iFruit Robbery For QB-Core
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>
-
